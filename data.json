@@ -70,5 +70,23 @@
     "views_count": 141,
     "likes_count": 45,
     "pk": 8
-  }
+  },
+  {
+    "poster_name": "bob",
+    "poster_avatar": "https://randus.org/photos/m/c0983c1dbfe7cbc3.jpg",
+    "pic": "https://images.unsplash.com/photo-1642396123041-d4eb7b50c5a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "content": "Сегодня разводили костер. Было весело.",
+    "views_count": 231,
+    "likes_count": 111,
+    "pk": 9
+  },
+  {
+    "poster_name": "jango",
+    "poster_avatar": "https://randus.org/photos/m/c7c383838f87cf87.jpg",
+    "pic": "https://images.unsplash.com/photo-1650218893779-9bf856f114ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+    "content": "По дороге на работу увидел оленей. Вот.",
+    "views_count": 541,
+    "likes_count": 77,
+    "pk": 10
+ }
 ]

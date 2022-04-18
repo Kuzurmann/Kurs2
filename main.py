@@ -22,7 +22,8 @@ def post_page(post_id):
 def search():
     search_by = request.args['s']
     posts = utils.search_for_posts(search_by)
-    return render_template("search.html", search_by=search_by, posts=posts)
+    contents = len(posts[:10])
+    return render_template("search.html", search_by=search_by, posts=posts[:10], contents=contents)
 
 
 @app.route("/users/<username>")
